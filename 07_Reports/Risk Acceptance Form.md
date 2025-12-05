@@ -37,3 +37,8 @@ Specify how long the risk is accepted before it must be re-evaluated.
 - **Security/GRC Reviewer:**  
 
 ### 6. Approval Signatures
+Risk Owner: ___________________________ Date: ___________
+
+Security/GRC Team: ______________________ Date: ___________
+
+Executive Approver: _____________________ Date: ___________
