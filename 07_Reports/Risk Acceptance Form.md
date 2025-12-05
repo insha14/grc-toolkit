@@ -42,3 +42,10 @@ Risk Owner: ___________________________ Date: ___________
 Security/GRC Team: ______________________ Date: ___________
 
 Executive Approver: _____________________ Date: ___________
+
+
+## Notes
+- Accepted risks must be reviewed periodically to ensure the decision remains appropriate.  
+- If conditions change (new threats, incidents, audits), the acceptance may need to be re-evaluated.  
+- This form should be stored with the risk register and associated assessment documents.
+
