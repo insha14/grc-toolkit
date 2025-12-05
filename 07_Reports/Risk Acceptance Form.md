@@ -1,4 +1,3 @@
-
 # Risk Acceptance Form
 
 ## Overview
@@ -8,7 +7,6 @@ The Risk Acceptance Form is used when an organization chooses to accept a docume
 This form provides a standardized method for documenting acceptance decisions, ensuring that risk owners and leadership understand the associated implications and take responsibility for the chosen outcome. It also supports audit and compliance requirements for formal risk governance.
 
 ---
-
 ## Risk Acceptance Details
 
 ### 1. Risk Information
@@ -28,3 +26,14 @@ This form provides a standardized method for documenting acceptance decisions, e
 ### 3. Justification for Acceptance
 Provide reasoning for why this risk is being accepted (e.g., cost of mitigation too high, risk deemed low impact, compensating controls in place).
 
+### 4. Acceptance Duration
+Specify how long the risk is accepted before it must be re-evaluated.
+- **Acceptance Period:**  
+- **Review Date:**  
+
+### 5. Roles and Responsibilities
+- **Risk Owner:**  
+- **System Owner:**  
+- **Security/GRC Reviewer:**  
+
+### 6. Approval Signatures
