@@ -1,67 +1,18 @@
 # NIST Cybersecurity Framework (CSF) 2.0 — Summary
 
-## 1. Overview
-The NIST Cybersecurity Framework (CSF) is a globally recognized model that helps organizations understand, manage, and reduce cybersecurity risk.  
-It is flexible and can be used by organizations of any size or industry.
+## Overview
+The NIST Cybersecurity Framework (CSF) is a widely used model that helps organizations understand, manage, and reduce cybersecurity risks. It is flexible, scalable, and suitable for organizations of all sizes. CSF 2.0 is built around six core functions that together represent the full lifecycle of managing cybersecurity risk across an organization.
 
-CSF 2.0 is organized into six core functions that represent the lifecycle of cybersecurity risk management.
+## The Six Core Functions
+The **Govern** function establishes the organization's cybersecurity governance by defining risk strategy, assigning roles and responsibilities, and providing oversight for security policies. The **Identify** function focuses on understanding what needs protection by assessing assets, systems, data, business environment, and vulnerabilities. The **Protect** function includes safeguards such as access controls, authentication, secure configurations, data protection mechanisms, and employee training to ensure services operate securely.
 
----
+The **Detect** function ensures that cybersecurity events are discovered promptly through continuous monitoring, logging, and anomaly detection. The **Respond** function provides guidance on how the organization should act once an incident is detected, including containment, communication, analysis, and mitigation activities. Finally, the **Recover** function focuses on restoring normal operations after an incident and improving processes through lessons learned, backup restoration, and service recovery planning.
 
-## 2. The Six Core Functions
+## CSF 2.0 Structure
+Each core function contains categories, and each category is further broken into subcategories that define specific cybersecurity outcomes. For example, under the Protect function, the Access Control category includes outcomes such as implementing least privilege. This structure makes CSF both comprehensive and easy to map to other frameworks like ISO 27001, SOC 2, and CIS Controls.
 
-### 1. Govern
-Defines cybersecurity governance, risk strategy, roles, responsibilities, and policy oversight.  
-**Examples:** establishing a cybersecurity risk strategy, defining roles, approving policies.
+## Importance for GRC Work
+CSF is especially useful in governance, risk, and compliance because it provides a clear, standardized way to assess security posture, identify gaps, and build policies. It supports risk assessments, aligns well with audits, and offers a common language for security teams, leadership, and stakeholders. Its widespread adoption across industries also makes it a reliable foundation for both compliance and operational security work.
 
-### 2. Identify
-Focuses on understanding assets, systems, data, business context, and threats.  
-**Examples:** asset inventory, business environment analysis, vulnerability identification.
-
-### 3. Protect
-Implements safeguards to ensure the delivery of critical services.  
-**Examples:** access control, MFA, data security, secure configuration, awareness training.
-
-### 4. Detect
-Identifies cybersecurity events in a timely manner.  
-**Examples:** log monitoring, SIEM alerts, anomaly detection.
-
-### 5. Respond
-Takes action regarding detected cybersecurity incidents.  
-**Examples:** incident response procedures, containment, communication, mitigation steps.
-
-### 6. Recover
-Restores capabilities or services after a cybersecurity incident and improves processes.  
-**Examples:** restoring systems from backups, recovery planning, post-incident reviews.
-
----
-
-## 3. CSF 2.0 Structure
-Each Function contains **Categories**, which are further broken down into **Subcategories**.  
-Example:  
-Protect → Access Control → Implement least privilege.
-
-This structure makes CSF easy to understand and map to other frameworks.
-
----
-
-## 4. Why CSF Is Important for GRC
-- Helps with policy development  
-- Simplifies risk assessments  
-- Maps easily to ISO 27001, SOC 2, and CIS Controls  
-- Provides common language for auditors and risk teams  
-- Widely used across industries and government organizations  
-
----
-
-## 5. How This Fits Into the Toolkit
-This framework will support your work in:  
-- Policy writing  
-- Control mapping  
-- Risk assessments  
-- Audit preparation  
-- Security governance documentation
-
-More framework summaries will be added to this section as the toolkit grows.
-
-
+## Role in This Toolkit
+Within this toolkit, the NIST CSF summary serves as a foundational reference for policy development, control mapping, risk assessment workflows, and audit preparation. As the toolkit expands, additional frameworks will be added to complement CSF and provide broader coverage for GRC practices.
