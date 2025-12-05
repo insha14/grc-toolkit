@@ -1,0 +1,151 @@
+
+📄 NIST Cybersecurity Framework (CSF) 2.0 – Summary
+1. Overview
+
+The NIST Cybersecurity Framework (CSF) is a globally recognized model that helps organizations understand, manage, and reduce cybersecurity risk.
+It is framework-agnostic, meaning it can be used by companies of any size and industry.
+
+CSF 2.0 organizes cybersecurity activities into 6 Core Functions, which act as the high-level pillars of a security program.
+
+## 2. The Six Core Functions
+
+These functions represent the lifecycle of managing cybersecurity risk.
+
+1) Govern
+
+Establishes the organization’s cybersecurity risk management strategy, roles, policies, and oversight.
+
+Includes:
+
+Risk management strategy
+
+Cybersecurity supply chain risk management
+
+Roles, responsibilities, and accountability
+
+Policy development
+
+Real-world example:
+Creating a security governance committee and defining who approves policies.
+
+2) Identify
+
+Understand what needs protection.
+
+Includes:
+
+Asset management
+
+Business environment
+
+Threat intelligence
+
+Vulnerability identification
+
+Example:
+Maintaining an updated inventory of laptops, servers, cloud services, and data assets.
+
+3) Protect
+
+Implement safeguards to keep systems and data secure.
+
+Includes:
+
+Access control
+
+Data security
+
+Secure configuration
+
+Awareness training
+
+Multi-factor authentication
+
+Example:
+Requiring MFA for all users and enforcing password complexity policies.
+
+4) Detect
+
+Find cybersecurity events early.
+
+Includes:
+
+Log monitoring
+
+Anomaly detection
+
+Security monitoring tools
+
+Continuous analysis
+
+Example:
+A SIEM alert triggers when unusual login patterns occur after midnight.
+
+5) Respond
+
+Take action when an incident is detected.
+
+Includes:
+
+Incident response planning
+
+Communication
+
+Mitigation
+
+Improvements
+
+Example:
+Activating the incident response team after detecting ransomware.
+
+6) Recover
+
+Return to normal operations and learn from incidents.
+
+Includes:
+
+Disaster recovery
+
+Business continuity
+
+Post-incident reviews
+
+Restoration of services
+
+Example:
+Restoring data from backups after a cyberattack and updating the response plan.
+
+## 3. CSF 2.0 Structure
+
+Each Function → contains Categories → each Category → contains Subcategories (specific outcomes).
+
+Example:
+Protect → Access Control → “Use least privilege principles.”
+
+This makes CSF easy to understand and implement incrementally.
+
+## 4. Why CSF Matters (Especially in GRC Roles)
+
+Helps organizations reduce cyber risk in a structured way
+
+Useful for policy creation and risk assessments
+
+Maps easily to ISO 27001, SOC 2, and CIS Controls
+
+Provides shared language for audits and reporting
+
+Used across industries, governments, and enterprises
+
+## 5. How You Will Use This in Your Toolkit
+
+This file becomes your foundation for:
+
+Policy writing
+
+Risk assessments
+
+Mapping controls
+
+Audit checklists
+
+Framework comparisons (ISO, SOC 2, CIS)
